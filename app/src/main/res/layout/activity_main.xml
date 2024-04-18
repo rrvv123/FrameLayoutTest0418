@@ -36,25 +36,27 @@
             android:layout_margin="@dimen/marginSmall"
             android:backgroundTint="#FFE2AE"
             android:text="@string/flower3"/>
+
     </LinearLayout>
+
     <FrameLayout
         android:layout_margin="@dimen/marginLarge"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
         <ImageView
-            android:id="@+id/img1"
+            android:id="@+id/imgv1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:adjustViewBounds="true"
             android:src="@drawable/mok"/>
         <ImageView
-            android:id="@+id/img2"
+            android:id="@+id/imgv2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:adjustViewBounds="true"
             android:src="@drawable/sun"/>
         <ImageView
-            android:id="@+id/img3"
+            android:id="@+id/imgv3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:adjustViewBounds="true"
