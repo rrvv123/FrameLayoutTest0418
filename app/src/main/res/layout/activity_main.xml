@@ -42,7 +42,7 @@
     <FrameLayout
         android:layout_margin="@dimen/marginLarge"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent">
         <ImageView
             android:id="@+id/imgv1"
             android:layout_width="match_parent"
